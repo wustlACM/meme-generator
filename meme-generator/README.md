@@ -12,6 +12,6 @@ npm start
 - /node_modules (generated)
 - /public (static html file)
 - /src (source code files)
-- package.js (project config settings)
+- package.json (project config settings)
 ```
 
